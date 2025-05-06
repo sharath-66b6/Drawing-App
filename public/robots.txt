@@ -1,0 +1,4 @@
+Sitemap: https://drawing app.pages.dev/sitemap.xml
+
+User-agent: *
+Allow: /
