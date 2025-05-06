@@ -2,9 +2,9 @@
 
 A simple canvas drawing web application with responsive UI. Built using [TypeScript](https://typescriptlang.org), [React](https://react.dev), and [Next.js](https://nextjs.org).
 
-**Live demo:** [Drawing App](https://drawing-app.vercle.app)
+**Live demo:** [Drawing App](https://drawing-app.vercel.app)
 
-[![](./docs/screenshot.png)](https://drawing-app.vercle.app)
+[![](./docs/screenshot.png)](https://drawing-app.vercel.app)
 
 ## Requirements
 
