@@ -70,12 +70,12 @@
     "typescript": "5.1.6",
     "wrangler": "3.5.0"
   },
-  "homepage": "https://github.com/diogocapela/drawing app#readme",
+  "homepage": "https://github.com/sharath-66b6/Drawing-App#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diogocapela/drawing app.git"
+    "url": "git+https://github.com/sharath-66b6/Drawing-App.git"
   },
   "bugs": {
-    "url": "https://github.com/diogocapela/drawing app/issues"
+    "url": "https://github.com/sharath-66b6/Drawing-App/issues"
   }
 }

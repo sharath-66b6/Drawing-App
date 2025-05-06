@@ -19,7 +19,7 @@ const metadata = {
     twitter: 'drawing app',
   },
   links: {
-    github: 'https://github.com/diogocapela/drawing app',
+    github: 'https://github.com/sharath-66b6/Drawing-App',
   },
   services: {
     googleAnalyticsMeasurementId: 'G-EZDBLF0NEZ',
