@@ -15,8 +15,11 @@
     "prettier:format": "prettier --write .",
     "check": "npm run eslint:lint && npm run prettier:format",
     "dev": "concurrently \"npm run next:dev\" \"npm run functions:dev\"",
-    "build": "npm run next:build && npm run next:export",
+    "build": "npm run next:build && next export -o dist",
     "preview": "npm run build && npm run functions:dev"
+  },
+  "engines": {
+    "node": "18.13.0"
   },
   "dependencies": {
     "@mantine/core": "6.0.4",
