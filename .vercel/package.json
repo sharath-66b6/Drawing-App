@@ -1,3 +1,5 @@
 {
-  "defaultEnvironment": "development"
+  "defaultEnvironment": "development",
+  "framework": "nextjs",
+  "outputDirectory": "dist"
 }
